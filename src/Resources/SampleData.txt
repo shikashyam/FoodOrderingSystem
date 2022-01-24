@@ -1,0 +1,21 @@
+Raymond Holt,146 Calumet Street,Roxbury,Boston,62
+Terrance Jeffords,72 Hillside Street,Roxbury,Boston,56
+Amy Santiago,7 Iroqouis Street,Roxbury,Boston,41
+Jack Sparrow,56 Parker Street,Roxbury,Boston,26
+Harry Potter,4 Privet Drive,Belltown,Seattle,13
+Sherlock Holmes,221B Baker Street,Belltown,Seattle,58
+Hermoine Granger,12 Milk Street,Belltown,Seattle,24
+Chanandeler Bong,45 John Street,Belltown,Seattle,49
+Monica Geller,178 Calrsburg Avenue,Harvard,Boston,34
+Barney Stinson,630 Little Flock Road,Harvard,Boston,28
+Theodore Evelyn Mosby,45 Nixon Street,Harvard,Boston,19
+Lily Aldrin,44 Mora Street,Harvard,Boston,56
+Lily Potter,214 Boylston Street,Ballard,Seattle,63
+Jacob Peralta,42 Park Drive,Ballard,Seattle,45
+Meredith Grey,74 Iroqoius Street,Ballard,Seattle,12
+Derek Shepherd,450 Sally Road,Boylston,Boston,52
+Amelia Shepherd,90 Lick Creek Lane,Boylston,Boston,59
+Miranda Bailey,883 Hemenway,Boylston,Boston,33
+Richard Webber,210 Newbury Street,Boylston,Boston,65
+Jackson Avery,48 Tremont Street,Capitol Hill,Seattle,63
+April Kepner,137 Harvard Avenue,Capitol Hill,Seattle,41
